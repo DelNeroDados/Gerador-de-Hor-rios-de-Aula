@@ -143,8 +143,6 @@ Para a turma `1º A`, o programa gera uma tabela como esta:
 Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias.
 
 Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/40766692/85ea464c-dfb9-40e3-b369-c40676374e80/Untitled.ipynb
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/40766692/85ea464c-dfb9-40e3-b369-c40676374e80/Untitled.ipynb
 [3] https://www.alura.com.br/artigos/como-publicar-seu-codigo-python-no-pypi
 [4] https://www.amandanascimento.com/post/criar-arquivo-readme-md
 [5] https://github.com/alura-cursos/readme-template
